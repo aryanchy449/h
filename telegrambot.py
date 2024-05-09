@@ -4,7 +4,7 @@ import json
 
 
 # token that we get from the BotFather
-TOKEN = "<Your Bot Token>"
+TOKEN = "AIzaSyAk5Tc4KVNb6S-aTopz3kU-JJSYlXvFUW0"
 
 app = Flask(__name__)
 
